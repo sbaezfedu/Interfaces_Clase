@@ -10,6 +10,8 @@ import javafx.stage.Stage;
 public class MainPractica extends Application {
 	private BorderPane rootLayout;	
 	
+	// Cambios
+	
 	@Override
 	public void start(Stage primaryStage) {
 		try {
