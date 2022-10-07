@@ -10,12 +10,12 @@ import javafx.stage.Stage;
 public class MainPractica extends Application {
 	private BorderPane rootLayout;	
 	
-	// Más cambios 
+	// Mï¿½s cambios de prueba para GitHub Desktop
 	
 	@Override
 	public void start(Stage primaryStage) {
 		try {
-			// Carga el diseño del archivo FXML en la variable rootLayout
+			// Carga el diseï¿½o del archivo FXML en la variable rootLayout
 			FXMLLoader loader = new FXMLLoader();
 			loader.setLocation(MainPractica.class.getResource("Menu.fxml"));
 			rootLayout = (BorderPane) loader.load();
