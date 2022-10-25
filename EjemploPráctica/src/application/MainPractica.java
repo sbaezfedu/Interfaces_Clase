@@ -10,8 +10,11 @@ import javafx.stage.Stage;
 public class MainPractica extends Application {
 	private BorderPane rootLayout;	
 	
+<<<<<<< HEAD
 	// M�s cambios de prueba para GitHub Desktop
 	
+=======
+>>>>>>> parent of d97c61e (Probando cambios)
 	@Override
 	public void start(Stage primaryStage) {
 		try {
