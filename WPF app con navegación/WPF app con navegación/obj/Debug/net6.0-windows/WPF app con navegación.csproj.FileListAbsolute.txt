@@ -1,0 +1,56 @@
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\bin\Debug\net6.0-windows\WPF app con navegación.exe
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\bin\Debug\net6.0-windows\WPF app con navegación.deps.json
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\bin\Debug\net6.0-windows\WPF app con navegación.runtimeconfig.json
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\bin\Debug\net6.0-windows\WPF app con navegación.dll
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\bin\Debug\net6.0-windows\WPF app con navegación.pdb
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\obj\Debug\net6.0-windows\WPF app con navegación.csproj.AssemblyReference.cache
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\obj\Debug\net6.0-windows\App.g.cs
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\obj\Debug\net6.0-windows\WPF app con navegación_MarkupCompile.cache
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\obj\Debug\net6.0-windows\WPF app con navegación_MarkupCompile.lref
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\obj\Debug\net6.0-windows\MainWindow.baml
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\obj\Debug\net6.0-windows\WPF app con navegación.g.resources
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\obj\Debug\net6.0-windows\WPF app con navegación.GeneratedMSBuildEditorConfig.editorconfig
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\obj\Debug\net6.0-windows\WPF app con navegación.AssemblyInfoInputs.cache
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\obj\Debug\net6.0-windows\WPF app con navegación.AssemblyInfo.cs
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\obj\Debug\net6.0-windows\WPF app con navegación.csproj.CoreCompileInputs.cache
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\obj\Debug\net6.0-windows\WPF app con navegación.dll
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\obj\Debug\net6.0-windows\refint\WPF app con navegación.dll
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\obj\Debug\net6.0-windows\WPF app con navegación.pdb
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\obj\Debug\net6.0-windows\WPF app con navegación.genruntimeconfig.cache
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\obj\Debug\net6.0-windows\ref\WPF app con navegación.dll
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\obj\Debug\net6.0-windows\Page1.g.cs
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\obj\Debug\net6.0-windows\Page1.baml
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\obj\Debug\net6.0-windows\Window1.g.cs
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\obj\Debug\net6.0-windows\Window1.baml
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\bin\Debug\net6.0-windows\Images\icon.png
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\obj\Debug\net6.0-windows\WPF app con navegación_Content.g.cs
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\bin\Debug\net6.0-windows\Images\user.png
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\bin\Debug\net6.0-windows\Images\icon.png
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\bin\Debug\net6.0-windows\Images\user.png
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\bin\Debug\net6.0-windows\WPF app con navegación.exe
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\bin\Debug\net6.0-windows\WPF app con navegación.deps.json
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\bin\Debug\net6.0-windows\WPF app con navegación.runtimeconfig.json
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\bin\Debug\net6.0-windows\WPF app con navegación.dll
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\bin\Debug\net6.0-windows\WPF app con navegación.pdb
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\obj\Debug\net6.0-windows\WPF app con navegación.csproj.AssemblyReference.cache
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\obj\Debug\net6.0-windows\Page1.g.cs
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\obj\Debug\net6.0-windows\Window1.g.cs
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\obj\Debug\net6.0-windows\App.g.cs
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\obj\Debug\net6.0-windows\WPF app con navegación_Content.g.cs
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\obj\Debug\net6.0-windows\WPF app con navegación_MarkupCompile.cache
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\obj\Debug\net6.0-windows\WPF app con navegación_MarkupCompile.lref
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\obj\Debug\net6.0-windows\MainWindow.baml
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\obj\Debug\net6.0-windows\Page1.baml
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\obj\Debug\net6.0-windows\Window1.baml
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\obj\Debug\net6.0-windows\WPF app con navegación.g.resources
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\obj\Debug\net6.0-windows\WPF app con navegación.GeneratedMSBuildEditorConfig.editorconfig
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\obj\Debug\net6.0-windows\WPF app con navegación.AssemblyInfoInputs.cache
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\obj\Debug\net6.0-windows\WPF app con navegación.AssemblyInfo.cs
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\obj\Debug\net6.0-windows\WPF app con navegación.csproj.CoreCompileInputs.cache
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\obj\Debug\net6.0-windows\WPF app con navegación.dll
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\obj\Debug\net6.0-windows\refint\WPF app con navegación.dll
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\obj\Debug\net6.0-windows\WPF app con navegación.pdb
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\obj\Debug\net6.0-windows\WPF app con navegación.genruntimeconfig.cache
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF app con navegación\WPF app con navegación\obj\Debug\net6.0-windows\ref\WPF app con navegación.dll
