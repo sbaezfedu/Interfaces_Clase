@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Clases\\Curso 2022-2023\\DI\\.NET\\Ejemplos\\WPF controles dinámicos\\WPF ListBox\\WPF ListBox.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\GitHub\\Interfaces_Clase\\WPF controles dinámicos\\WPF ListBox\\WPF ListBox.csproj",
       "projectName": "WPF ListBox",
-      "projectPath": "E:\\Clases\\Curso 2022-2023\\DI\\.NET\\Ejemplos\\WPF controles dinámicos\\WPF ListBox\\WPF ListBox.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\Interfaces_Clase\\WPF controles dinámicos\\WPF ListBox\\WPF ListBox.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "E:\\Clases\\Curso 2022-2023\\DI\\.NET\\Ejemplos\\WPF controles dinámicos\\WPF ListBox\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Documents\\GitHub\\Interfaces_Clase\\WPF controles dinámicos\\WPF ListBox\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",

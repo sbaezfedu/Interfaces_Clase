@@ -29,7 +29,7 @@ namespace WPF_DataGrid
             users.Add(new User() { Id = 2, Name = "Jane Doe", Birthday = new DateTime(1974, 1, 17) });
             users.Add(new User() { Id = 3, Name = "Sammy Doe", Birthday = new DateTime(1991, 9, 2) });
 
-            this.dgSimple.ItemsSource = users;            
+            //this.dgSimple.ItemsSource = users;            
         }
     }
     public class User{

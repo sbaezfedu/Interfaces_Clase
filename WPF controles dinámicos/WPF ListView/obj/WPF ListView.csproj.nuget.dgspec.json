@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Clases\\Curso 2022-2023\\DI\\.NET\\Ejemplos\\WPF controles dinámicos\\WPF ListView\\WPF ListView.csproj": {}
+    "C:\\Users\\Usuario\\Documents\\GitHub\\Interfaces_Clase\\WPF controles dinámicos\\WPF ListView\\WPF ListView.csproj": {}
   },
   "projects": {
-    "E:\\Clases\\Curso 2022-2023\\DI\\.NET\\Ejemplos\\WPF controles dinámicos\\WPF ListView\\WPF ListView.csproj": {
+    "C:\\Users\\Usuario\\Documents\\GitHub\\Interfaces_Clase\\WPF controles dinámicos\\WPF ListView\\WPF ListView.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Clases\\Curso 2022-2023\\DI\\.NET\\Ejemplos\\WPF controles dinámicos\\WPF ListView\\WPF ListView.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\GitHub\\Interfaces_Clase\\WPF controles dinámicos\\WPF ListView\\WPF ListView.csproj",
         "projectName": "WPF ListView",
-        "projectPath": "E:\\Clases\\Curso 2022-2023\\DI\\.NET\\Ejemplos\\WPF controles dinámicos\\WPF ListView\\WPF ListView.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\Interfaces_Clase\\WPF controles dinámicos\\WPF ListView\\WPF ListView.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "E:\\Clases\\Curso 2022-2023\\DI\\.NET\\Ejemplos\\WPF controles dinámicos\\WPF ListView\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\GitHub\\Interfaces_Clase\\WPF controles dinámicos\\WPF ListView\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",

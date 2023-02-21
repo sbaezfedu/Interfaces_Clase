@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/hN4RwH/p7Q3XYPYMtRGj+HwDqyu0kc33WWvPGx/58cDNA6wDag79qiszlfmcbXFB0AwGJOXgqJawVNGdsh1yg==",
+  "dgSpecHash": "j1LP0NV1kexJ2g7bAd+HVH6EMeiHjU4y2pUXE4Ze0zP0N1vGCnYsT1QuyR9SBLhWNMBIfMuXsSnKdA+CZioqYw==",
   "success": true,
-  "projectFilePath": "E:\\Clases\\Curso 2022-2023\\DI\\.NET\\Ejemplos\\WPF controles dinámicos\\WPF ListBox\\WPF ListBox.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Documents\\GitHub\\Interfaces_Clase\\WPF controles dinámicos\\WPF ListBox\\WPF ListBox.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

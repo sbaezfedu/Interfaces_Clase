@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Clases\\Curso 2022-2023\\DI\\.NET\\Ejemplos\\WPF controles dinámicos\\WPF TreeView\\WPF TreeView.csproj": {}
+    "C:\\Users\\Usuario\\Documents\\GitHub\\Interfaces_Clase\\WPF controles dinámicos\\WPF TreeView\\WPF TreeView.csproj": {}
   },
   "projects": {
-    "E:\\Clases\\Curso 2022-2023\\DI\\.NET\\Ejemplos\\WPF controles dinámicos\\WPF TreeView\\WPF TreeView.csproj": {
+    "C:\\Users\\Usuario\\Documents\\GitHub\\Interfaces_Clase\\WPF controles dinámicos\\WPF TreeView\\WPF TreeView.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Clases\\Curso 2022-2023\\DI\\.NET\\Ejemplos\\WPF controles dinámicos\\WPF TreeView\\WPF TreeView.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\GitHub\\Interfaces_Clase\\WPF controles dinámicos\\WPF TreeView\\WPF TreeView.csproj",
         "projectName": "WPF TreeView",
-        "projectPath": "E:\\Clases\\Curso 2022-2023\\DI\\.NET\\Ejemplos\\WPF controles dinámicos\\WPF TreeView\\WPF TreeView.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\Interfaces_Clase\\WPF controles dinámicos\\WPF TreeView\\WPF TreeView.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "E:\\Clases\\Curso 2022-2023\\DI\\.NET\\Ejemplos\\WPF controles dinámicos\\WPF TreeView\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\GitHub\\Interfaces_Clase\\WPF controles dinámicos\\WPF TreeView\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",

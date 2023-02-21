@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mjkzJAaAfcnQo7xs9+LnbIecCVn7VTDqHDS7+/LZ0Nn2qyRZdrq6U7Gw642rFO1wYalNgH6sxWKZ6KjoOAW+Xg==",
+  "dgSpecHash": "fYxuZh82e84JnX5om81TdQORzOs1QIq7p4IBgpAHOe+9p6mzl0e6nPxPYVLVS+r+v34eBkVmuQ0yEypOXmJEpA==",
   "success": true,
-  "projectFilePath": "E:\\Clases\\Curso 2022-2023\\DI\\.NET\\Ejemplos\\WPF controles dinámicos\\WPF DataGrid\\WPF DataGrid.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Documents\\GitHub\\Interfaces_Clase\\WPF controles dinámicos\\WPF DataGrid\\WPF DataGrid.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
