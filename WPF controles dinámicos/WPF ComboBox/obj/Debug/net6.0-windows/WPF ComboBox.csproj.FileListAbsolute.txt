@@ -1,0 +1,42 @@
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ComboBox\bin\Debug\net6.0-windows\WPF ComboBox.exe
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ComboBox\bin\Debug\net6.0-windows\WPF ComboBox.deps.json
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ComboBox\bin\Debug\net6.0-windows\WPF ComboBox.runtimeconfig.json
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ComboBox\bin\Debug\net6.0-windows\WPF ComboBox.dll
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ComboBox\bin\Debug\net6.0-windows\WPF ComboBox.pdb
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ComboBox\obj\Debug\net6.0-windows\WPF ComboBox.csproj.AssemblyReference.cache
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ComboBox\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ComboBox\obj\Debug\net6.0-windows\App.g.cs
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ComboBox\obj\Debug\net6.0-windows\WPF ComboBox_MarkupCompile.cache
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ComboBox\obj\Debug\net6.0-windows\WPF ComboBox_MarkupCompile.lref
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ComboBox\obj\Debug\net6.0-windows\MainWindow.baml
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ComboBox\obj\Debug\net6.0-windows\WPF ComboBox.g.resources
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ComboBox\obj\Debug\net6.0-windows\WPF ComboBox.GeneratedMSBuildEditorConfig.editorconfig
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ComboBox\obj\Debug\net6.0-windows\WPF ComboBox.AssemblyInfoInputs.cache
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ComboBox\obj\Debug\net6.0-windows\WPF ComboBox.AssemblyInfo.cs
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ComboBox\obj\Debug\net6.0-windows\WPF ComboBox.csproj.CoreCompileInputs.cache
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ComboBox\obj\Debug\net6.0-windows\WPF ComboBox.dll
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ComboBox\obj\Debug\net6.0-windows\refint\WPF ComboBox.dll
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ComboBox\obj\Debug\net6.0-windows\WPF ComboBox.pdb
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ComboBox\obj\Debug\net6.0-windows\WPF ComboBox.genruntimeconfig.cache
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ComboBox\obj\Debug\net6.0-windows\ref\WPF ComboBox.dll
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ComboBox\bin\Debug\net6.0-windows\WPF ComboBox.exe
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ComboBox\bin\Debug\net6.0-windows\WPF ComboBox.deps.json
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ComboBox\bin\Debug\net6.0-windows\WPF ComboBox.runtimeconfig.json
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ComboBox\bin\Debug\net6.0-windows\WPF ComboBox.dll
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ComboBox\bin\Debug\net6.0-windows\WPF ComboBox.pdb
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ComboBox\obj\Debug\net6.0-windows\WPF ComboBox.csproj.AssemblyReference.cache
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ComboBox\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ComboBox\obj\Debug\net6.0-windows\App.g.cs
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ComboBox\obj\Debug\net6.0-windows\WPF ComboBox_MarkupCompile.cache
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ComboBox\obj\Debug\net6.0-windows\WPF ComboBox_MarkupCompile.lref
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ComboBox\obj\Debug\net6.0-windows\MainWindow.baml
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ComboBox\obj\Debug\net6.0-windows\WPF ComboBox.g.resources
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ComboBox\obj\Debug\net6.0-windows\WPF ComboBox.GeneratedMSBuildEditorConfig.editorconfig
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ComboBox\obj\Debug\net6.0-windows\WPF ComboBox.AssemblyInfoInputs.cache
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ComboBox\obj\Debug\net6.0-windows\WPF ComboBox.AssemblyInfo.cs
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ComboBox\obj\Debug\net6.0-windows\WPF ComboBox.csproj.CoreCompileInputs.cache
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ComboBox\obj\Debug\net6.0-windows\WPF ComboBox.dll
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ComboBox\obj\Debug\net6.0-windows\refint\WPF ComboBox.dll
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ComboBox\obj\Debug\net6.0-windows\WPF ComboBox.pdb
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ComboBox\obj\Debug\net6.0-windows\WPF ComboBox.genruntimeconfig.cache
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ComboBox\obj\Debug\net6.0-windows\ref\WPF ComboBox.dll

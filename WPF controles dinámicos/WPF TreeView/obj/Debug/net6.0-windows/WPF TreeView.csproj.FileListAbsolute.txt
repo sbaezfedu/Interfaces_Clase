@@ -1,0 +1,21 @@
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF TreeView\bin\Debug\net6.0-windows\WPF TreeView.exe
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF TreeView\bin\Debug\net6.0-windows\WPF TreeView.deps.json
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF TreeView\bin\Debug\net6.0-windows\WPF TreeView.runtimeconfig.json
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF TreeView\bin\Debug\net6.0-windows\WPF TreeView.dll
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF TreeView\bin\Debug\net6.0-windows\WPF TreeView.pdb
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF TreeView\obj\Debug\net6.0-windows\WPF TreeView.csproj.AssemblyReference.cache
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF TreeView\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF TreeView\obj\Debug\net6.0-windows\App.g.cs
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF TreeView\obj\Debug\net6.0-windows\WPF TreeView_MarkupCompile.cache
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF TreeView\obj\Debug\net6.0-windows\WPF TreeView_MarkupCompile.lref
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF TreeView\obj\Debug\net6.0-windows\MainWindow.baml
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF TreeView\obj\Debug\net6.0-windows\WPF TreeView.g.resources
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF TreeView\obj\Debug\net6.0-windows\WPF TreeView.GeneratedMSBuildEditorConfig.editorconfig
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF TreeView\obj\Debug\net6.0-windows\WPF TreeView.AssemblyInfoInputs.cache
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF TreeView\obj\Debug\net6.0-windows\WPF TreeView.AssemblyInfo.cs
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF TreeView\obj\Debug\net6.0-windows\WPF TreeView.csproj.CoreCompileInputs.cache
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF TreeView\obj\Debug\net6.0-windows\WPF TreeView.dll
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF TreeView\obj\Debug\net6.0-windows\refint\WPF TreeView.dll
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF TreeView\obj\Debug\net6.0-windows\WPF TreeView.pdb
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF TreeView\obj\Debug\net6.0-windows\WPF TreeView.genruntimeconfig.cache
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF TreeView\obj\Debug\net6.0-windows\ref\WPF TreeView.dll

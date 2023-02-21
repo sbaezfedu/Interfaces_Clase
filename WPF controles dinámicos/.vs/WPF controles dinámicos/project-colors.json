@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "09f41c30-c2bf-4a75-9568-40a55f96a634": {
+      "ProjectGuid": "09f41c30-c2bf-4a75-9568-40a55f96a634",
+      "DisplayName": "WPF cuadro desplegable",
+      "ColorIndex": 0
+    },
+    "d60c1261-175c-4ae7-b9b0-b6beacae9490": {
+      "ProjectGuid": "d60c1261-175c-4ae7-b9b0-b6beacae9490",
+      "DisplayName": "WPF ListBox",
+      "ColorIndex": 1
+    },
+    "ca19ebcd-990a-43a3-9c6c-89c40a5a0227": {
+      "ProjectGuid": "ca19ebcd-990a-43a3-9c6c-89c40a5a0227",
+      "DisplayName": "WPF ListView",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

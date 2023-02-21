@@ -1,0 +1,72 @@
+﻿<Window x:Class="WPF_ListBox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_ListBox" 
+        xmlns:Collections="clr-namespace:System.Collections;assembly=mscorlib" 
+        xmlns:system="clr-namespace:System;assembly=mscorlib"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.Resources>
+        <!-- Aquí creamos recursos para los ListBox que se crean debajo del todo -->
+        <x:Array x:Key="arrayTodoList" Type="{x:Type local:TodoItem}">
+            <local:TodoItem Title="WPF" Completion="45"/>
+            <local:TodoItem Title="C#" Completion="80"/>
+            <local:TodoItem Title="Java" Completion="0"/>
+        </x:Array>
+        <Collections:ArrayList x:Key="pruebaTodoList">
+            <local:TodoItem Title="WPF" Completion="45"/>
+            <local:TodoItem Title="C#" Completion="80"/>
+            <local:TodoItem Title="Java" Completion="0"/>
+        </Collections:ArrayList>
+        <DataTemplate x:Key="myTodoTemplate">
+            <Label Content="{Binding}" Foreground="#FFB51B1B" />
+        </DataTemplate>
+    </Window.Resources>
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <ListBox>
+            <ListBoxItem>
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="/icon.png" />
+                    <TextBox TextWrapping="Wrap" Text="ListBox Item #1" Width="120" />
+                </StackPanel>
+            </ListBoxItem>
+            <ListBoxItem Content="ListBox Item #2"/>
+            <ListBoxItem Content="ListBox Item #3"/>
+        </ListBox>
+        <ListBox Grid.Row="1">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Button Content="{Binding}" Margin="0,0,5,5" />
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+            <system:String>Item #1</system:String>
+            <system:String>Item #2</system:String>
+            <system:String>Item #3</system:String>
+        </ListBox>
+        <ListBox Grid.Row="2" x:Name="lbTodoList">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Grid Margin="0,2">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="100" />
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Text="{Binding Title}" />
+                        <ProgressBar Grid.Column="1" Minimum="0" Maximum="100" Value="{Binding Completion}" />
+                    </Grid>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <!-- Prueba a usar el ArrayList pruebaTodoList para comprobar que también funciona -->
+        <ListBox Grid.Row="3" ItemsSource="{DynamicResource arrayTodoList}" 
+                 ItemTemplate="{DynamicResource myTodoTemplate}" />
+    </Grid>
+</Window>

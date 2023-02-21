@@ -1,0 +1,27 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_DataGrid"
+        xmlns:Collections="clr-namespace:System.Collections;assembly=System.Runtime" x:Class="WPF_DataGrid.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="256" Width="440">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <DataGrid d:ItemsSource="{d:SampleData ItemCount=5}" x:Name="dgSimple"/>
+        <DataGrid x:Name="dgUsers" Grid.Row="1" AutoGenerateColumns="False" ColumnWidth="*">
+            <DataGrid.Columns >
+                <DataGridTextColumn Header="Id" Binding="{Binding Id}" Width="50" />
+                <DataGridTextColumn Header="Name" Binding="{Binding Name}"/>
+                <DataGridTextColumn Header="Birthday" Binding="{Binding Birthday}"/>
+            </DataGrid.Columns>
+            <local:User Birthday="1970-01-01" Id="1" Name="John Doe"/>
+            <local:User Birthday="1980-02-02" Id="2" Name="Jane Roe"/>
+        </DataGrid>
+
+    </Grid>
+</Window>

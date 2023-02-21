@@ -1,0 +1,44 @@
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF DataGrid\bin\Debug\net6.0-windows\WPF DataGrid.exe
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF DataGrid\bin\Debug\net6.0-windows\WPF DataGrid.deps.json
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF DataGrid\bin\Debug\net6.0-windows\WPF DataGrid.runtimeconfig.json
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF DataGrid\bin\Debug\net6.0-windows\WPF DataGrid.dll
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF DataGrid\bin\Debug\net6.0-windows\WPF DataGrid.pdb
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF DataGrid\obj\Debug\net6.0-windows\WPF DataGrid.csproj.AssemblyReference.cache
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF DataGrid\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF DataGrid\obj\Debug\net6.0-windows\App.g.cs
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF DataGrid\obj\Debug\net6.0-windows\WPF DataGrid_MarkupCompile.cache
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF DataGrid\obj\Debug\net6.0-windows\WPF DataGrid_MarkupCompile.lref
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF DataGrid\obj\Debug\net6.0-windows\MainWindow.baml
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF DataGrid\obj\Debug\net6.0-windows\WPF DataGrid.g.resources
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF DataGrid\obj\Debug\net6.0-windows\WPF DataGrid.GeneratedMSBuildEditorConfig.editorconfig
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF DataGrid\obj\Debug\net6.0-windows\WPF DataGrid.AssemblyInfoInputs.cache
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF DataGrid\obj\Debug\net6.0-windows\WPF DataGrid.AssemblyInfo.cs
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF DataGrid\obj\Debug\net6.0-windows\WPF DataGrid.csproj.CoreCompileInputs.cache
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF DataGrid\obj\Debug\net6.0-windows\WPF DataGrid.dll
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF DataGrid\obj\Debug\net6.0-windows\refint\WPF DataGrid.dll
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF DataGrid\obj\Debug\net6.0-windows\WPF DataGrid.pdb
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF DataGrid\obj\Debug\net6.0-windows\WPF DataGrid.genruntimeconfig.cache
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF DataGrid\obj\Debug\net6.0-windows\ref\WPF DataGrid.dll
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF DataGrid\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF DataGrid\bin\Debug\net6.0-windows\WPF DataGrid.exe
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF DataGrid\bin\Debug\net6.0-windows\WPF DataGrid.deps.json
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF DataGrid\bin\Debug\net6.0-windows\WPF DataGrid.runtimeconfig.json
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF DataGrid\bin\Debug\net6.0-windows\WPF DataGrid.dll
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF DataGrid\bin\Debug\net6.0-windows\WPF DataGrid.pdb
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF DataGrid\obj\Debug\net6.0-windows\WPF DataGrid.csproj.AssemblyReference.cache
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF DataGrid\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF DataGrid\obj\Debug\net6.0-windows\App.g.cs
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF DataGrid\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF DataGrid\obj\Debug\net6.0-windows\WPF DataGrid_MarkupCompile.cache
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF DataGrid\obj\Debug\net6.0-windows\WPF DataGrid_MarkupCompile.lref
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF DataGrid\obj\Debug\net6.0-windows\MainWindow.baml
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF DataGrid\obj\Debug\net6.0-windows\WPF DataGrid.g.resources
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF DataGrid\obj\Debug\net6.0-windows\WPF DataGrid.GeneratedMSBuildEditorConfig.editorconfig
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF DataGrid\obj\Debug\net6.0-windows\WPF DataGrid.AssemblyInfoInputs.cache
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF DataGrid\obj\Debug\net6.0-windows\WPF DataGrid.AssemblyInfo.cs
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF DataGrid\obj\Debug\net6.0-windows\WPF DataGrid.csproj.CoreCompileInputs.cache
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF DataGrid\obj\Debug\net6.0-windows\WPF DataGrid.dll
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF DataGrid\obj\Debug\net6.0-windows\refint\WPF DataGrid.dll
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF DataGrid\obj\Debug\net6.0-windows\WPF DataGrid.pdb
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF DataGrid\obj\Debug\net6.0-windows\WPF DataGrid.genruntimeconfig.cache
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF DataGrid\obj\Debug\net6.0-windows\ref\WPF DataGrid.dll

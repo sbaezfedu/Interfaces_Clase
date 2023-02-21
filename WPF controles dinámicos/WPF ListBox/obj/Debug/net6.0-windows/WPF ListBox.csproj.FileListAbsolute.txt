@@ -1,0 +1,44 @@
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ListBox\bin\Debug\net6.0-windows\WPF ListBox.exe
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ListBox\bin\Debug\net6.0-windows\WPF ListBox.deps.json
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ListBox\bin\Debug\net6.0-windows\WPF ListBox.runtimeconfig.json
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ListBox\bin\Debug\net6.0-windows\WPF ListBox.dll
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ListBox\bin\Debug\net6.0-windows\WPF ListBox.pdb
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ListBox\obj\Debug\net6.0-windows\WPF ListBox.csproj.AssemblyReference.cache
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ListBox\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ListBox\obj\Debug\net6.0-windows\App.g.cs
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ListBox\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ListBox\obj\Debug\net6.0-windows\WPF ListBox_MarkupCompile.cache
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ListBox\obj\Debug\net6.0-windows\WPF ListBox_MarkupCompile.lref
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ListBox\obj\Debug\net6.0-windows\MainWindow.baml
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ListBox\obj\Debug\net6.0-windows\WPF ListBox.g.resources
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ListBox\obj\Debug\net6.0-windows\WPF ListBox.GeneratedMSBuildEditorConfig.editorconfig
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ListBox\obj\Debug\net6.0-windows\WPF ListBox.AssemblyInfoInputs.cache
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ListBox\obj\Debug\net6.0-windows\WPF ListBox.AssemblyInfo.cs
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ListBox\obj\Debug\net6.0-windows\WPF ListBox.csproj.CoreCompileInputs.cache
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ListBox\obj\Debug\net6.0-windows\WPF ListBox.dll
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ListBox\obj\Debug\net6.0-windows\ref\WPF ListBox.dll
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ListBox\obj\Debug\net6.0-windows\WPF ListBox.pdb
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ListBox\obj\Debug\net6.0-windows\WPF ListBox.genruntimeconfig.cache
+E:\Clases\Curso 2021-2022\DIW + DI\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ListBox\obj\Debug\net6.0-windows\refint\WPF ListBox.dll
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ListBox\bin\Debug\net6.0-windows\WPF ListBox.exe
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ListBox\bin\Debug\net6.0-windows\WPF ListBox.deps.json
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ListBox\bin\Debug\net6.0-windows\WPF ListBox.runtimeconfig.json
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ListBox\bin\Debug\net6.0-windows\WPF ListBox.dll
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ListBox\bin\Debug\net6.0-windows\WPF ListBox.pdb
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ListBox\obj\Debug\net6.0-windows\WPF ListBox.csproj.AssemblyReference.cache
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ListBox\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ListBox\obj\Debug\net6.0-windows\App.g.cs
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ListBox\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ListBox\obj\Debug\net6.0-windows\WPF ListBox_MarkupCompile.cache
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ListBox\obj\Debug\net6.0-windows\WPF ListBox_MarkupCompile.lref
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ListBox\obj\Debug\net6.0-windows\MainWindow.baml
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ListBox\obj\Debug\net6.0-windows\WPF ListBox.g.resources
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ListBox\obj\Debug\net6.0-windows\WPF ListBox.GeneratedMSBuildEditorConfig.editorconfig
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ListBox\obj\Debug\net6.0-windows\WPF ListBox.AssemblyInfoInputs.cache
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ListBox\obj\Debug\net6.0-windows\WPF ListBox.AssemblyInfo.cs
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ListBox\obj\Debug\net6.0-windows\WPF ListBox.csproj.CoreCompileInputs.cache
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ListBox\obj\Debug\net6.0-windows\WPF ListBox.dll
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ListBox\obj\Debug\net6.0-windows\refint\WPF ListBox.dll
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ListBox\obj\Debug\net6.0-windows\WPF ListBox.pdb
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ListBox\obj\Debug\net6.0-windows\WPF ListBox.genruntimeconfig.cache
+E:\Clases\Curso 2022-2023\DI\.NET\Ejemplos\WPF controles dinámicos\WPF ListBox\obj\Debug\net6.0-windows\ref\WPF ListBox.dll
